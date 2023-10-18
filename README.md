@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning: Flutter<br>🎲 Currently improving: C# and Python<br>🎯 Goals: Make an indie Game and improving my code skills.</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning: Flutter<br>🎲 Currently improving: C# and Python<br>🎯 Goals: Make an indie Game and improving my code skills.</p>
 
 ###
 
